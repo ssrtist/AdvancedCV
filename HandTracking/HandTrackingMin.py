@@ -1,3 +1,6 @@
+# current progress: (27:00) Hand Tracking - Module
+# https://youtu.be/01sAkU_NvOY?list=FLmQacUzewqgkxFdg9JOtIjw&t=1619
+
 import cv2
 import mediapipe as mp
 import time
